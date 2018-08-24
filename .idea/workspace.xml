@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e27349f0-5120-4b96-9b96-6e7fd8393947" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Badapple/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Badapple/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Badapple/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Badapple/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_45.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/Exam1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/Exam1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/Exam1/src/main/java/com/hand/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/docker/java/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/docker/mysql/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/docker/mysql/sakila-data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/docker/mysql/sakila-schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/docker/mysql/setup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest3/start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Exam1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Exam1/src/main/java/com/hand/api/service/FilmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Exam1/src/main/java/com/hand/api/service/impl/FilmServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Exam1/src/main/java/com/hand/entity/FilmE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Exam1/src/main/java/com/hand/infra/config/AopInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Exam1/src/main/java/com/hand/infra/config/PublishSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Exam1/src/main/java/com/hand/infra/mapper/FilmMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Exam1/src/main/resources/applicationContext-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Exam1/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Exam1/src/main/resources/com.hand.infra.mapper/FilmMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/Exam1/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/check.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/java/com/hand/api/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/java/com/hand/api/controller/FilmController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/java/com/hand/api/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/java/com/hand/api/service/FilmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/java/com/hand/api/service/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/java/com/hand/api/service/impl/FilmServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/java/com/hand/domain/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/java/com/hand/domain/entity/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/java/com/hand/domain/entity/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/java/com/hand/infra/mapper/CustomerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/java/com/hand/infra/mapper/FilmMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/resources/mapper/CustomerMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/Exam1/src/main/resources/mapper/FilmMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/check.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/curl.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/docker/mysql/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/docker/mysql/sakila-data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/docker/mysql/sakila-schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTest5/stop.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bad/apple/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/app.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/application-pro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mappertest/src/main/resources/generatorConfig1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-study/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-study/src/main/java/com/hand/mybatis/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-study/src/main/java/com/hand/mybatis/pojo/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-study/src/main/java/com/hand/mybatis/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-study/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-study/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-study/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/bean/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/bean/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/bean/HelloServiceInstanceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/bean/HelloServiceStaticFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/scope/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/scope/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/scope/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/transaction/declarativeTransactionManagement/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/transaction/declarativeTransactionManagement/UserCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/transaction/declarativeTransactionManagement/UserCityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/transaction/declarativeTransactionManagement/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/transaction/declarativeTransactionManagement/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/transaction/programmingTransactionManagement/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/transaction/programmingTransactionManagement/UserCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/transaction/programmingTransactionManagement/UserCityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/transaction/programmingTransactionManagement/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/java/com/hand/transaction/programmingTransactionManagement/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/resources/Beans-D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/resources/Beans-P.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/resources/config-bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-study/src/main/resources/config-scope.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/file/helloMsg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/api/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/api/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/api/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/api/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/domain/entity/UserE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/hello/HelloMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/hello/HelloMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/hello/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/hello/impl/HelloChinaImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/hello/impl/HelloWorldImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/infra/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/infra/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/java/com/hand/infra/util/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/resources/applicationContext-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/resources/com.hand.infra.mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/.idea/libraries/hibernate_validator_5_0_0_CR2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/.idea/libraries/jstl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/.idea/libraries/jstl__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/.idea/libraries/standard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/.idea/libraries/validation_api_1_1_0_CR1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/.idea/libraries/validation_api_1_1_0_CR1__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/lib/validation-api-1.1.0.CR1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/src/CRUD/converters/EmployeeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/src/CRUD/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/src/CRUD/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/src/CRUD/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/src/CRUD/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/src/CRUD/handler/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/src/CRUD/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/src/mvc/test/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/src/mvc/test/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/src/mvc/test/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/src/mvc/test/views/HelloView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/web/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/web/WEB-INF/jsp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/web/WEB-INF/lib/hibernate-validator-5.0.0.CR2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/web/WEB-INF/lib/hibernate-validator-annotation-processor-5.0.0.CR2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/web/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/web/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-test/web/WEB-INF/lib/validation-api-1.1.0.CR1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/dbconfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/newHelloFolder/Json/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/newHelloFolder/one/ani.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/newHelloFolder/one/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/newHelloFolder/one/java.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/newHelloFolder/one/video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/newHelloFolder/two/hello2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/newHelloFolder/two/java.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/newHelloFolder/two/languages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/AbstarctFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/AbstractFactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AbstractFactoryPattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AnnotationTest/AnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/AnnotationTest/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/DecoratorPattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/DecoratorPattern/DecoratorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/DecoratorPattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/DecoratorPattern/RedShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/DecoratorPattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/DecoratorPattern/ShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/FactoryPattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/FactoryPattern/FactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/FactoryPattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/FactoryPattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/FactoryPattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/FactoryPattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/FileTest/BinarySaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/FileTest/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/FileTest/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/HttpClientTest/HttpClientGetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/HttpClientTest/HttpClientPostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/HttpTest/GetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/HttpTest/PostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/JDBCTest/Dao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/JDBCTest/Dao/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/JDBCTest/Dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/JDBCTest/Dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/JDBCTest/TestVersion/DBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/JDBCTest/TestVersion/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/JDBCTest/TestVersion/JDBCTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/JDBCTest/TestVersion/JDBCTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/JSONTest/CreateJSONTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/JSONTest/ReadJSONTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/Java8NewFeatures/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/Java8NewFeatures/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/MvcPattern/MvcMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/MvcPattern/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/MvcPattern/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/MvcPattern/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/SingletonPattern/SingleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/SingletonPattern/SingletonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/SocketTest/ChatManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/SocketTest/ChatSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/SocketTest/MyServerSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/SocketTest/ServerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/ThreadSynchronized/ThreadSynchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/ThreadTest/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/ThreadTest/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/ThreadTest/ThreadPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/ThreadTest/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/XMLTest/CreateXMLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/XMLTest/Dom4jTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/XMLTest/ReadXMLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testp/testc/src/main/java/com/hand/utils/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/conf/CasProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/conf/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/conf/WebSecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/conf/druid/DruidAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/conf/druid/DruidProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/conf/origin/WebOriginFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/conf/origin/WebOriginProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/constants/AppConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/constants/WebOriginConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/controller/CityController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/controller/WebTestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/mapper/CityMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/mapper/EmployeeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/mapper/UserInfoMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/model/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/model/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/model/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/model/UserModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/model/core/AppUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/model/core/AuthorityInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/model/core/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/model/core/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/service/CityService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/service/core/CasUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/service/impl/CityServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/me/ele/wom/util/BaseMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/META-INF/spring-devtools.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application-old.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application-old.properties.bxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/generator/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/mapper/CityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/mapper/CountryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/mapper/EmployeeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/mapper/UserInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/js/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/templates/index.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/templates/view.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/test.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/webapp/WEB-INF/jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/webapp/WEB-INF/jsp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/me/ele/wom/mapper/MyBatis331Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/me/ele/wom/mapper/MyBatis331Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/me/ele/wom/mapper/city.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/me/ele/wom/model/City2.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1583960484">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="9" />
+          <entry key="properties" value="2" />
+          <entry key="sfk" value="1" />
+          <entry key="txt" value="4" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="483" />
+          <entry key="xml" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="483" />
+          <entry key="XML" value="39" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bad/apple/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bad/apple/BadApple.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bad/apple/Music.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/bad/apple/music.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/bad/apple/Music.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bad/apple/App.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/bad/apple/BadApple.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bad-apple" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bad-apple" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="147" />
+    <option name="y" value="41" />
+    <option name="width" value="938" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="badapple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bad-apple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="badapple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bad-apple" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="badapple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bad-apple" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="badapple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bad-apple" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="badapple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bad-apple" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="badapple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bad-apple" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="badapple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bad-apple" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git_Project\bad-apple\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git_Project\bad-apple\src\main" />
+      <recent name="D:\Git_Project\bad-apple" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bad.apple.App" />
+      <module name="bad-apple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BadApple.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/BadApple.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="JAR Application.BadApple.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JAR Application.BadApple.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e27349f0-5120-4b96-9b96-6e7fd8393947" name="Default Changelist" comment="" />
+      <created>1535075449613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535075449613</updated>
+      <workItem from="1535075455225" duration="7907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7907000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961832" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49923664" weight="0.32993197" />
+      <window_info anchor="bottom" id="Terminal" weight="0.44217688" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50076336" side_tool="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34013605" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" weight="0.32977098" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/badapple2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="13207" column="59" selection-start-line="13207" selection-start-column="59" selection-end-line="13207" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/badapple6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/badapple6.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-499">
+          <caret line="139" column="19" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/badApple1.sfk">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="695" column="29" selection-start-line="695" selection-start-column="29" selection-end-line="695" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bad/apple/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bad/apple/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1382">
+          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+          <folding>
+            <element signature="e#3011#3012#0" expanded="true" />
+            <element signature="e#3058#3059#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+          <folding>
+            <element signature="e#2084#2085#0" expanded="true" />
+            <element signature="e#2130#2131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bad/apple/BadApple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
